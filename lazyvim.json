@@ -1,0 +1,11 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lang.python"
+  ],
+  "news": {
+    "NEWS.md": "2191"
+  },
+  "version": 2
+}
